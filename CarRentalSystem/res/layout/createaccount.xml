@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/roadimage"
+    android:orientation="vertical" >
+
+   <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="@string/createAccount" />
+   <TextView
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:textColor="#000000"
+       android:text="@string/username" />
+   <EditText
+       android:id="@+id/getusername"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:hint="Username" />
+   <TextView 
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:textColor="#000000"
+       android:text="@string/password" />
+    <EditText 
+       android:id="@+id/getpassword"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:hint="Password"/>
+    <Button 
+       android:id="@+id/okButton"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/okButton" />
+    <Button 
+       android:id="@+id/homeButton"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/homeButton" />
+
+</LinearLayout>

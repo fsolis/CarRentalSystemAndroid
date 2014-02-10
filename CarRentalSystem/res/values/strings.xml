@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="welcome">Welcome To Solis Car Rental System</string>
+    <string name="app_name">SolisRentalSystem</string>
+    <string name="createAccount">Create New Account</string>
+    <string name="makeReservation">Make Reservation</string>
+    <string name="cancelReservation">Cancel Reservation</string>
+    <string name="username">Enter Username</string>
+    <string name="password">Enter Password</string>
+    <string name="okButton">OK</string>
+    <string name="homeButton">Main Menu</string>
+    <string name="resname">Reservation System</string>
+    <string name="selectdate">Select Dates</string>
+    <string name="selectcar">Select Car</string>
+    <string name="sedan">Sedan ($25 per day)</string>
+    <string name="truck">Truck ($35 per day)</string>
+    <string name="van">Mini Van ($50 per day)</string>
+    <string name="blank">         </string>
+    <string name="loginsystem"> Log In </string>
+    <string name="cancelreservation">Cancel Reservation</string>
+    <string name="accept">Accept</string>
+    <string name="tranhistory">Transaction History</string>
+    <string name="enterres">Enter Reservation Number</string>
+    <string name="yourReservations">Here Are Your Reservations</string>
+</resources>
